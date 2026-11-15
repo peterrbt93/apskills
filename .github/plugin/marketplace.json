@@ -1,0 +1,14 @@
+{
+  "name": "apskills",
+  "owner": {
+    "name": "AP Data Platform"
+  },
+  "plugins": [
+    {
+      "name": "apdataplatform",
+      "version": "1.0.0",
+      "description": "Shared data platform engineering skills for Apache Spark and Delta Lake.",
+      "source": "./plugins/apdataplatform"
+    }
+  ]
+}
