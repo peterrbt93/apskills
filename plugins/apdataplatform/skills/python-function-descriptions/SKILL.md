@@ -13,3 +13,4 @@ When asked to describe Python functions, make changes only to function docstring
 - Keep descriptions concise and use the documentation style already present in the file. If no style is established, use a short summary followed by Google-style `Args`, `Returns`, and `Raises` sections only where applicable.
 - Preserve existing behavior exactly. If a function's behavior is unclear, describe only what can be verified from its implementation.
 - Do not add descriptions to functions unless requested, and do not make unrelated cleanup changes.
+- Make docstrings in Danish
