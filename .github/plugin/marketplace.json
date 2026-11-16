@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "apdataplatform",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "description": "Shared data platform engineering skills for Apache Spark and Delta Lake.",
       "source": "./plugins/apdataplatform"
     }
